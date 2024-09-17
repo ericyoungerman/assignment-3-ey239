@@ -13,3 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Outside of research, I am a Graduate Student Coordinator for the Ronald E. McNair Postbaccalaureate Achievement Program that aims to increase the attainment of Ph.D. degrees by students underrepresented in academia and the professoriate.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d3df98967361822365b00eabca5deee1a07bc85b
